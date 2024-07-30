@@ -53,4 +53,4 @@ jobs:
           app-name: 'IntuneDriveMappingMukSri'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_251E52575AC74F86A00BDBEEB19971EB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C89272636321490BBBBAE4CA571DD564 }}
